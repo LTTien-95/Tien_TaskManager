@@ -1,0 +1,15 @@
+C:\Users\hnc computer\Desktop\Task Manager\Task Manager\obj\x86\Debug\Task_Manager.Taskmanager.resources
+C:\Users\hnc computer\Desktop\Task Manager\Task Manager\obj\x86\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\hnc computer\Desktop\Task Manager\Task Manager\obj\x86\Debug\Task Manager.csproj.GenerateResource.Cache
+C:\Users\hnc computer\Desktop\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\hnc computer\Desktop\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\hnc computer\Desktop\Task Manager\Task Manager\obj\x86\Debug\Task Manager.exe
+C:\Users\hnc computer\Desktop\Task Manager\Task Manager\obj\x86\Debug\Task Manager.pdb
+C:\Users\hnc computer\Desktop\Task_Manager\Tien_TaskManager\Task Manager\obj\x86\Debug\Task Manager.exe
+C:\Users\hnc computer\Desktop\Task_Manager\Tien_TaskManager\Task Manager\obj\x86\Debug\Task Manager.pdb
+C:\Users\hnc computer\Desktop\Task_Manager\Tien_TaskManager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\hnc computer\Desktop\Task_Manager\Tien_TaskManager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\hnc computer\Desktop\Task_Manager\Tien_TaskManager\Task Manager\obj\x86\Debug\Task_Manager.Taskmanager.resources
+C:\Users\hnc computer\Desktop\Task_Manager\Tien_TaskManager\Task Manager\obj\x86\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\hnc computer\Desktop\Task_Manager\Tien_TaskManager\Task Manager\obj\x86\Debug\Task Manager.csproj.GenerateResource.Cache
+C:\Users\hnc computer\Desktop\Task_Manager\Tien_TaskManager\Task Manager\obj\x86\Debug\Task Manager.csprojResolveAssemblyReference.cache
